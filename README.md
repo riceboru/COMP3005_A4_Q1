@@ -2,7 +2,7 @@
 
 Isaac Chen
 
-* this assignment is base on the example given in the class: https://github.com/aorogat/COMP3005_DBMS/tree/main/JavaHibernateApplicationPostgreSQL *
+* This assignment is based on the example given in the class: https://github.com/aorogat/COMP3005_DBMS/tree/main/JavaHibernateApplicationPostgreSQL *
 This program implements a simple student information management system, including the functions of adding, querying, updating and deleting student records.
 
 requirement:
@@ -12,3 +12,6 @@ requirement:
 
 file:
   StudentDBOp.java
+
+Video showcase:
+  https://drive.google.com/file/d/12AJ_tVnh92x0ABF1TIL9Z0C1r7OhqZP1/view?usp=drive_link
