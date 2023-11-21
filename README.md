@@ -1,5 +1,7 @@
 # COMP3005_A4_Q1
 
+Isaac Chen
+
 * this assignment is base on the example given in the class: https://github.com/aorogat/COMP3005_DBMS/tree/main/JavaHibernateApplicationPostgreSQL *
 This program implements a simple student information management system, including the functions of adding, querying, updating and deleting student records.
 
